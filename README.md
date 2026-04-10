@@ -1,4 +1,4 @@
-# SMS Spam Classification - Codmetric Internship Task 1
+# SMS Spam Classification
 
 ## 📄 Project Description
 This project was developed as part of my **Machine Learning Internship at Codmetric**. The objective is to build a classification model that can accurately distinguish between **Spam** (unwanted/scam) and **Ham** (legitimate) SMS messages using Natural Language Processing (NLP) techniques.
